@@ -87,7 +87,6 @@ NOTE: Optional chaining behaves differently from the standard JavaScript version
 | Object destructuring  | `const { name } = person`         |
 | Array destructuring   | `const [firstItem] = items`       |
 | Comma operator        | `x = (x++, x)`                    |
-| in                    | `'model' in car`                  |
 | typeof                | `typeof 42`                       |
 | void                  | `void 1`                          |
 | instanceof            | `car instanceof Automobile`       |
